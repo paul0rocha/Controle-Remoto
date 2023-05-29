@@ -1,5 +1,6 @@
 ## Control
 
+https://github.com/steniowagner/mindCast/assets/63813811/6b0b119c-19ac-4f88-97e7-f1defdc694de
 
 ## About this Project
 
