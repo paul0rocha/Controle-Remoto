@@ -15,6 +15,7 @@ _"The project consists of clicking on the numbers and turning on the LEDs corres
 ## Functionalities
 
 - Control leds through commands performed by the remote control, with this we use programming in C ++ language.
+- We carry out the development on the tinkercad platform
 
 
 ## Contributing
